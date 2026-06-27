@@ -50,7 +50,7 @@ common:
     url: https://www.songtrust.com
   - type: Application
     url: https://app.songtrust.com
-  - type: SignUp
+  - type: Signup
     url: https://app.songtrust.com/signup
   - type: Login
     url: https://app.songtrust.com/login
